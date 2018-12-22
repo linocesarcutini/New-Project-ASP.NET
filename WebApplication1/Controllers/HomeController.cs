@@ -17,7 +17,9 @@ namespace WebApplication1.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Title"] = "Test";
+            ViewData["Message"] = "My application description page!";
+            ViewData["Email"] = "cesarcutini@gmail.com";
 
             return View();
         }

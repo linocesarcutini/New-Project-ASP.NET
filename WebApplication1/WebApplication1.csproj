@@ -2,6 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <AssemblyName>NewProjectMVC</AssemblyName>
+    <RootNamespace>NewProjectMVC</RootNamespace>
+    <ApplicationIcon>dotnet.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>
